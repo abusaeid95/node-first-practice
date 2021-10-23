@@ -48,5 +48,5 @@ app.get('/users/:id', (req, res)=>{
 })
 
 app.listen(port, () => {
-    console.log('Example app listening', port)
+    console.log('Example app listennning', port)
   })
